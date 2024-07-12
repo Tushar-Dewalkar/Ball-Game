@@ -4,9 +4,9 @@ This is a simple Breakout Ball Game developed in Java using Swing. The game cons
 
 ## Screenshots
 
-[Game Start](https://github.com/Tushar-Dewalkar/Ball-Game/start.png).
+[Game Start](https://github.com/Tushar-Dewalkar/Ball-Game/blob/c2b9b3e0545e8b46c672a641443cb111283c798a/start.png).
 
-[Gameplay](https://github.com/Tushar-Dewalkar/Ball-Game/end.png)
+[Gameplay](https://github.com/Tushar-Dewalkar/Ball-Game/blob/c2b9b3e0545e8b46c672a641443cb111283c798a/end.png)
 
 ## Features
 
