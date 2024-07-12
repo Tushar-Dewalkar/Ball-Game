@@ -4,8 +4,8 @@ This is a simple Breakout Ball Game developed in Java using Swing. The game cons
 
 ## Screenshots
 
-![Game Start]("C:\\Users\\asus\\Desktop\\Ball Game\\start.png")
-![Gameplay]("C:\\Users\\asus\\Desktop\\Ball Game\\end.png")
+[Game Start](https://github.com/Tushar-Dewalkar/Ball-Game/blob/main/start.png)
+[Gameplay](https://github.com/Tushar-Dewalkar/Ball-Game/blob/main/end.png)
 
 ## Features
 
