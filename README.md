@@ -2,6 +2,11 @@
 
 This is a simple Breakout Ball Game developed in Java using Swing. The game consists of a ball, a paddle, and bricks. The objective of the game is to break all the bricks by bouncing the ball off the paddle.
 
+## Screenshots
+
+![Game Start]("C:\\Users\\asus\\Desktop\\Ball Game\\start.png")
+![Gameplay]("C:\\Users\\asus\\Desktop\\Ball Game\\end.png")
+
 ## Features
 
 - *Ball Movement*: The ball moves and bounces off the walls and the paddle.
